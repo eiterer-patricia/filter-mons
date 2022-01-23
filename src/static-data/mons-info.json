@@ -1,0 +1,590 @@
+[
+    {
+        "id": 18,
+        "name": "Geenee",
+        "generation": "0",
+        "ancestors": [],
+        "types": [
+            "Neutral"
+        ]                
+    },
+    {
+        "id": 16,
+        "name": "Vivorin",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 15,
+        "name": "Vermillios",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 14,
+        "name": "Keradon",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 13,
+        "name": "Thermolophus",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 12,
+        "name": "Blockid",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 11,
+        "name": "Geckno",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 10,
+        "name": "Chulember",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 9,
+        "name": "Mizumi",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 8,
+        "name": "Cesstoid",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 7,
+        "name": "Berrball",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 6,
+        "name": "Mianari",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 5,
+        "name": "Palytid",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 3,
+        "name": "Nageel",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 2,
+        "name": "Dynamouse",
+        "generation": "0",
+        "ancestors": []
+    },
+    {
+        "id": 77,
+        "name": "Inkami",
+        "generation": 1,
+        "ancestors": [
+            "14",
+            "16",
+            "11"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Tygloo",
+        "generation": 1,
+        "ancestors": [
+            "17",
+            "3",
+            "11"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Odwig",
+        "generation": 1,
+        "ancestors": [
+            "18",
+            "7",
+            "1"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Mirrie",
+        "generation": 1,
+        "ancestors": [
+            "8",
+            "1",
+            "12"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Lectrobe",
+        "generation": 1,
+        "ancestors": [
+            "5",
+            "6",
+            "13"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Kyari",
+        "generation": 1,
+        "ancestors": [
+            "2",
+            "19",
+            "4"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Omnom",
+        "generation": 1,
+        "ancestors": [
+            "5",
+            "17",
+            "7"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Mintol",
+        "generation": 1,
+        "ancestors": [
+            "23",
+            "8",
+            "24"
+        ]
+    },
+    {
+        "id": 148,
+        "name": "Vexigon",
+        "generation": "2",
+        "ancestors": [
+            "33",
+            "8",
+            "30"
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Dusprite",
+        "generation": "2",
+        "ancestors": [
+            "33",
+            "82",
+            "5"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Cryptise",
+        "generation": "2",
+        "ancestors": [
+            "14",
+            "4",
+            "27"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Sonectid",
+        "generation": "2",
+        "ancestors": [
+            "29",
+            "18",
+            "16"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Endorr",
+        "generation": "2",
+        "ancestors": [
+            "24",
+            "13",
+            "32"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Redhandit",
+        "generation": "2",
+        "ancestors": [
+            "19",
+            "9",
+            "28"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Fuirrel",
+        "generation": "2",
+        "ancestors": [
+            "9",
+            "18",
+            "30"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Pudde",
+        "generation": "2",
+        "ancestors": [
+            "15",
+            "4",
+            "29"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Lollipunch",
+        "generation": "2",
+        "ancestors": [
+            "14",
+            "12",
+            "55"
+        ]
+    },
+    {
+        "id": 192,
+        "name": "Finray",
+        "generation": "3",
+        "ancestors": [
+            "30",
+            "148",
+            "3"
+        ]
+    },
+    {
+        "id": 151,
+        "name": "Greipawn",
+        "generation": "3",
+        "ancestors": [
+            "32",
+            "79",
+            "24"
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Kikapole",
+        "generation": "3",
+        "ancestors": [
+            "78",
+            "29",
+            "11"
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Pistaccoul",
+        "generation": "3",
+        "ancestors": [
+            "34",
+            "37",
+            "79"
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Mindallion",
+        "generation": "3",
+        "ancestors": [
+            "79",
+            "7",
+            "81"
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Kelpony",
+        "generation": "3",
+        "ancestors": [
+            "93",
+            "79",
+            "34"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Flaraton",
+        "generation": "3",
+        "ancestors": [
+            "90",
+            "81",
+            "79"
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Tobeno",
+        "generation": "3",
+        "ancestors": [
+            "77",
+            "93",
+            "32"
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Malakele",
+        "generation": "3",
+        "ancestors": [
+            "31",
+            "28",
+            "78"
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Matara",
+        "generation": "3",
+        "ancestors": [
+            "32",
+            "81",
+            "37"
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Clothom",
+        "generation": "4",
+        "ancestors": [
+            "29",
+            "101",
+            "78"
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Felistar",
+        "generation": "4",
+        "ancestors": [
+            "9",
+            "81",
+            "103"
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Krakowee",
+        "generation": "4",
+        "ancestors": [
+            "80",
+            "97",
+            "79"
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Iquander",
+        "generation": "4",
+        "ancestors": [
+            "90",
+            "97",
+            "30"
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Lemeeni",
+        "generation": "4",
+        "ancestors": [
+            "31",
+            "99",
+            "32"
+        ]
+    },
+    {
+        "id": 119,
+        "name": "Tipsillar",
+        "generation": "4",
+        "ancestors": [
+            "28",
+            "104",
+            "80"
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Krubble",
+        "generation": "4",
+        "ancestors": [
+            "101",
+            "34",
+            "80"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Ekopi",
+        "generation": "4",
+        "ancestors": [
+            "79",
+            "97",
+            "25"
+        ]
+    },
+    {
+        "id": 202,
+        "name": "Naviumi",
+        "generation": "5",
+        "ancestors": [
+            "119",
+            "6",
+            "138"
+        ]
+    },
+    {
+        "id": 196,
+        "name": "Dorentu",
+        "generation": "5",
+        "ancestors": [
+            "37",
+            "128",
+            "12"
+        ]
+    },
+    {
+        "id": 176,
+        "name": "Watuber",
+        "generation": "5",
+        "ancestors": [
+            "146",
+            "116",
+            "106"
+        ]
+    },
+    {
+        "id": 173,
+        "name": "Batflare",
+        "generation": "5",
+        "ancestors": [
+            "131",
+            "77",
+            "10"
+        ]
+    },
+    {
+        "id": 170,
+        "name": "Roichirp",
+        "generation": "5",
+        "ancestors": [
+            "101",
+            "142",
+            "16"
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Grubgas",
+        "generation": "5",
+        "ancestors": [
+            "97",
+            "106",
+            "5"
+        ]
+    },
+    {
+        "id": 183,
+        "name": "Onchor",
+        "generation": "6",
+        "ancestors": [
+            "15",
+            "165",
+            "3"
+        ]
+    },
+    {
+        "id": 168,
+        "name": "Foxeez",
+        "generation": "6",
+        "ancestors": [
+            "138",
+            "Pigperus",
+            "33"
+        ]
+    },
+    {
+        "id": 166,
+        "name": "Spoulder",
+        "generation": "6",
+        "ancestors": [
+            "80",
+            "136",
+            "Piggicius"
+        ]
+    },
+    {
+        "id": 198,
+        "name": "Pricktile",
+        "generation": "7",
+        "ancestors": [
+            "166",
+            "Dilloom",
+            "Thermolophus"
+        ],
+        "types": [
+            "Leaf",
+            "Earth"
+        ]
+    },
+    {
+        "id": 227,
+        "name": "Hambrisk",
+        "generation": "6",
+        "ancestors": [
+            "103",
+            "10",
+            "173"
+        ],
+        "types": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Barkindle",
+        "generation": "2",
+        "ancestors": [
+            "25",
+            "26",
+            "54"
+        ],
+        "types": [
+            "Fire",
+            "Combat"
+        ]
+    },
+    {
+        "id": 235,
+        "name": "Snobbit",
+        "generation": "7",
+        "ancestors": [
+            "168",
+            "33",
+            "192"
+        ],
+        "types": [
+            "Ice",
+            "Water"
+        ]
+    }
+]
